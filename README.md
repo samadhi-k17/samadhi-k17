@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samadhi edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadhi edirisinghe" height="30" width="40" /></a>
-<a href="https://fb.com/sama edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sama edirisinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samadhi Edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadhi edirisinghe" height="30" width="40" /></a>
+<a href="https://fb.com/sama Edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sama edirisinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/sama_dhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sama_dhi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/inspire with sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inspire with sama" height="30" width="40" /></a>
 </p>
